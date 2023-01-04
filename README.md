@@ -6,7 +6,7 @@ Get started by creating a new file or uploading an existing file. We recommend e
 
 …or create a new repository on the command line
 
-echo "# Cs50_Chapter_1" >> README.md
+echo "# Chapter_2" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
